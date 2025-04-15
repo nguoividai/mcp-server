@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "es6", // or your preferred target
-    "module": "commonjs", // or your preferred module system
-    "esModuleInterop": true, // Enable this flag
-    "strict": true, // Optional: enables strict type-checking options
-    "skipLibCheck": true // Optional: skips type checking of declaration files
-  }
-}
